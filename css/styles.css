@@ -63,7 +63,7 @@ header img {
   padding-left: 40px;
 }
 
-.profile, .skills, .passions, .education {
+.profile, .skills, .hobbies, .education {
   margin-bottom: 50px;
 }
 
@@ -92,7 +92,7 @@ header img {
   background-color: #8eb6f2;
 }
 
-.passions .far, .passions .fas, .social .fab {
+.hobbies .far, .hobbies .fas, .social .fab {
   color: #2974e2;
 }
 
